@@ -34,6 +34,8 @@ input {
 html,
 body {
   height: 100%;
+  margin: 0 auto;
+  max-width: 90%;
 }
 
 p {
@@ -132,6 +134,7 @@ body {
 #page div.bottom {
   background-color: #e0e9f7;
   width: 704px;
+  margin: 0;
   overflow: hidden;
   min-height: 600px;
   position: relative;
